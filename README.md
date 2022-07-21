@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/Follow%20@jshiplett-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jshiplett)
 
-[!](https://raw.githubusercontent.com/jshiplett/github-stats/main/generated/overview.svg)
-
 <!--
 **jshiplett/jshiplett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
