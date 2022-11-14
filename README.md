@@ -1,5 +1,3 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/jshiplett?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/jshiplett)
-
 [![LinkedIn](https://img.shields.io/badge/Follow%20@jshiplett-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jshiplett)
 
 <!--
